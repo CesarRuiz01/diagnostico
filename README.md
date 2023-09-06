@@ -1,0 +1,2 @@
+# diagnostico
+examen diagnostico beta
